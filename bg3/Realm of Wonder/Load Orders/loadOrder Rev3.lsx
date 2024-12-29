@@ -184,7 +184,8 @@ Load Order:
         - Sun Soul
         - Spring Time
         - Hurricane
-
+    - Ranger
+        - 
     - Blood Sorcery - A Sorcerer subclass
     - 5e Horizon Walker - Ranger Subclasss
     - Oath of Conquest
@@ -1084,14 +1085,6 @@ Load Order:
                             <attribute id="UUID" type="guid" value="edec7b9d-0063-1df6-7b30-d1d4b9a0adc3"/>
                             <attribute id="Version64" type="int64" value="72057594037927942"/>
                         </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Aza_Shart_Halfplate_edec7b9d-0063-1df6-7b30-d1d4b9a0adc3"/>
-                            <attribute id="MD5" type="LSString" value="4113819692a6e75f258fcddd95ae4a34"/>
-                            <attribute id="Name" type="LSString" value="[Aza] Better Starting Gear (Shadowheart)"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="edec7b9d-0063-1df6-7b30-d1d4b9a0adc3"/>
-                            <attribute id="Version64" type="int64" value="72057594037927942"/>
-                        </node>
                         <!--Extras-->
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Planar Mommies"/>
@@ -1318,14 +1311,6 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="41e6aeb8-e8ae-41b8-b303-8ad2f8b43f61"/>
                             <attribute id="Version64" type="int64" value="36732486608224256"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Fantastical Variant Human"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="Fantastical Variant Human"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="5e53f556-ba7a-46fd-9dee-ba1ff456d8db"/>
-                            <attribute id="Version64" type="int64" value="36732503788093440"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Fantastical Water Genasi"/>
@@ -1659,10 +1644,7 @@ Load Order:
                             <attribute id="UUID" type="guid" value="255f0218-e133-49de-8bef-3a1bf300fde1"/>
                             <attribute id="Version64" type="int64" value="1"/>
                         </node>
-
-
-
-
+                        <!--Classes - Ranger-->
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="MysticClass_93c6116d-631a-cdc4-c0d3-37c568de4b76"/>
                             <attribute id="MD5" type="LSString" value="4d32f32462e97abb4293ec3cf487f8b7"/>

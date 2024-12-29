@@ -16,7 +16,7 @@ Rev. 3 - Classes\
     - *Warlock + Modded*\
     - *Barbarian + Modded*\
     - *Cleric + Modded*\
-    - *Monk*\
+    - *Monk + Modded*\
 Rev. 2 - Quality of Life\
     -  *Moved Friendly Skeleton to a Feat*\
     -  *Add Easy Cheats Mod for Character Build Planning and Easy Respecs*\
