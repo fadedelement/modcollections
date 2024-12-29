@@ -1556,6 +1556,30 @@ Load Order:
                             <attribute id="Version64" type="int64" value="36028805608898560"/>
                         </node>
                         <!--Classes - Monk-->
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Kensei5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Kensei"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="2e4e938a-81fa-4566-a60b-281dc4e86301"/>
+                            <attribute id="Version64" type="int64" value="37295436561645568"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="AstralSelf5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="AstralSelf5e"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="d4404e8c-5490-4776-be54-e55c24ec0bf6"/>
+                            <attribute id="Version64" type="int64" value="37295436561645570"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DrunkenMaster5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="DrunkenMaster5e"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="9562ec70-b9f2-403a-8083-805632cc85b9"/>
+                            <attribute id="Version64" type="int64" value="37295434414161924"/>
+                        </node>
 
 
 
@@ -1591,30 +1615,6 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="0fa9a997-4412-4303-bfc8-c013967031c9"/>
                             <attribute id="Version64" type="int64" value="37295434414161920"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Kensei5e"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="Kensei"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="2e4e938a-81fa-4566-a60b-281dc4e86301"/>
-                            <attribute id="Version64" type="int64" value="37295436561645568"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="AstralSelf5e"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="AstralSelf5e"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="d4404e8c-5490-4776-be54-e55c24ec0bf6"/>
-                            <attribute id="Version64" type="int64" value="37295436561645570"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="DrunkenMaster5e"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="DrunkenMaster5e"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="9562ec70-b9f2-403a-8083-805632cc85b9"/>
-                            <attribute id="Version64" type="int64" value="37295434414161924"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="OathofConquest_7066e995-e7fc-3932-10db-9d2c9c7de8c8"/>
