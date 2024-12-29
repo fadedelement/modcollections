@@ -12,6 +12,11 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
  - Leave a comment or bug and I will get to it as soon as possible.
 
 ### Changelog
+Rev. 3 - Classes\
+    - *Warlock + Modded*\
+    - *Barbarian + Modded*\
+    - *Cleric + Modded*\
+    - *Monk*\
 Rev. 2 - Quality of Life\
     -  *Moved Friendly Skeleton to a Feat*\
     -  *Add Easy Cheats Mod for Character Build Planning and Easy Respecs*\
