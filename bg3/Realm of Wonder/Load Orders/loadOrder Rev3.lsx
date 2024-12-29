@@ -130,6 +130,7 @@ Load Order:
     - Planar Mommies
     - Dieties for All
     - Barrel Tweaks
+    - Tasha's Fighting Styles
 - Items
     - Progressive Weapons
     - Bag of Holding - Bag of Weight Reduction
@@ -166,15 +167,29 @@ Load Order:
     - Cleric
         - Forge Domain Cleric
         - Affliction Domain Cleric
+        - Twilight
+        - Inquisition
+        - Death
+        - Moon
+        - Darkness
+        - Grave
+        - Pained
+    - Monk
+        - 5e Way of the Kensei - Monk Subclass
+        - Astral Self
+        - Drunken Master
+        - Mercy
+        - Long Death
+        - Ascendant Dragon
+        - Sun Soul
+        - Spring Time
+        - Hurricane
 
     - Blood Sorcery - A Sorcerer subclass
     - 5e Horizon Walker - Ranger Subclasss
     - Oath of Conquest
     - The voidborne
     - Artificer class and all subclasses
-    - 5e Way of the Kensei - Monk Subclass
-    - Astral Self
-    - Drunken Master
     - Rogues Extra
     - Mystic Class
     - 5e Rune Knight - Fighter Subclasss
@@ -1094,6 +1109,22 @@ Load Order:
                             <attribute id="UUID" type="guid" value="e1dc385a-9acb-b6ca-64fd-504838ce06f6"/>
                             <attribute id="Version64" type="int64" value="36028797018963973"/>
                         </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="BarrelTweaks_b993354c-4a77-2cdb-0301-c62d8a23d126"/>
+                            <attribute id="MD5" type="LSString" value="1959e29a349934f735dad55e68920710"/>
+                            <attribute id="Name" type="LSString" value="Barrel Tweaks"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="b993354c-4a77-2cdb-0301-c62d8a23d126"/>
+                            <attribute id="Version64" type="int64" value="36028799166447626"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="TashasFightingStyles"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Tasha's Fighting Styles"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="a9efdc45-2c5c-4bda-8b2a-824bb7cb8afd"/>
+                            <attribute id="Version64" type="int64" value="36028799166447618"/>
+                        </node>
                         <!--Items-->
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="ProgressiveWeapons_0f8ba995-7067-2c59-145e-9969a7d01723"/>
@@ -1579,6 +1610,54 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="9562ec70-b9f2-403a-8083-805632cc85b9"/>
                             <attribute id="Version64" type="int64" value="37295434414161924"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Monk Subclass - Way of Mercy"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Monk Subclass - Way of Mercy"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="c5343ccb-d1d8-4970-8a1d-c44203a6a55a"/>
+                            <attribute id="Version64" type="int64" value="36310271995674624"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="LongDeath5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="LongDeath5e"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="da317322-2378-4aec-965f-56d1fe9ecede"/>
+                            <attribute id="Version64" type="int64" value="37295434414161923"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="AscendantDragon5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="AscendantDragon5e"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="52f55bb1-9331-4ab3-ad10-e8394ac4fcdb"/>
+                            <attribute id="Version64" type="int64" value="37295434414161924"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SunSoul5e"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="SunSoul5e"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="55600146-ba95-413e-9d0d-f9c7506da6b4"/>
+                            <attribute id="Version64" type="int64" value="37295434414161921"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="chauntWay"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="chauntway"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="d0766f1b-3e74-4442-ba79-8ed733e22976"/>
+                            <attribute id="Version64" type="int64" value="36028814198833152"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="WayOfTheHurricane"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="WayOfTheHurricane"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="255f0218-e133-49de-8bef-3a1bf300fde1"/>
+                            <attribute id="Version64" type="int64" value="1"/>
                         </node>
 
 
