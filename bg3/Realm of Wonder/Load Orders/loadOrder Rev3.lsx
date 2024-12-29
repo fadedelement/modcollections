@@ -38,6 +38,7 @@ Load Order:
     - Valkrana's Spellbook - 12 New Necromancy Spells
     - Teleport Party To You Spell
     - Warlocks Spell List Fixer
+    - Necromancy Cantrips for Clerics
 - Character
     - Transmog Enhanced
     - Less Wrinkled Expression and Forehead for Face
@@ -110,6 +111,7 @@ Load Order:
     - Scantily Camp Outfit
     - Universal Armour Fixer
     - Knights and Dames
+    - Paladin and Cleric Gear
     - Buy Your Starting Equipment
     - Cosmetic pack by Mari
         - Makeup Unique Tav
@@ -472,6 +474,14 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="da838ab2-4d4b-4ca2-9e11-0257a03b13fc"/>
                             <attribute id="Version64" type="int64" value="36028799166447616"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="NecroCleric"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Necromancy Cantrips for Clerics"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="f437ba1e-e0af-4cb6-8600-914d114c238d"/>
+                            <attribute id="Version64" type="int64" value="288230376151711744"/>
                         </node>
                         <!--Character-->
                         <node id="ModuleShortDesc">
@@ -979,6 +989,14 @@ Load Order:
                             <attribute id="Version64" type="int64" value="36028797018963968"/>
                         </node>
                         <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="PTW_Gear_Paladin"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Paladin and Cleric Gear"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="92d48458-fec4-440f-af56-9a2f218cd74b"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="buyyourstartingequipment"/>
                             <attribute id="MD5" type="LSString" value=""/>
                             <attribute id="Name" type="LSString" value="buyyourstartingequipment"/>
@@ -1302,8 +1320,7 @@ Load Order:
                             <attribute id="UUID" type="guid" value="d2a95f38-6025-4e83-b753-fecf0de209ae"/>
                             <attribute id="Version64" type="int64" value="1"/>
                         </node>
-                        <!--Classes-->
-                        <!--Warlock-->
+                        <!--Classes - Warlock-->
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Hexblade"/>
                             <attribute id="MD5" type="LSString" value=""/>
@@ -1376,7 +1393,7 @@ Load Order:
                             <attribute id="UUID" type="guid" value="e183d800-677f-4ff0-8648-17b40f7fcc29"/>
                             <attribute id="Version64" type="int64" value="36028797018963968"/>
                         </node>
-                        <!--Barbarian-->
+                        <!--Classes - Barbarian-->
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="AncestralGuardian5e"/>
                             <attribute id="MD5" type="LSString" value=""/>
@@ -1465,7 +1482,80 @@ Load Order:
                             <attribute id="UUID" type="guid" value="2e6ec423-5d59-45ba-9ec0-b0d1e3c363e1"/>
                             <attribute id="Version64" type="int64" value="36310271995674624"/>
                         </node>
-                        <!--Cleric-->
+                        <!--Classes - Cleric-->
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SB_ForgeCleric"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="SB_ForgeCleric"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="40b6c215-fe60-4a17-be6b-f84aadc6a476"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="AfflictionDomain_976ed545-d74f-36c2-bf4c-48e77c937220"/>
+                            <attribute id="MD5" type="LSString" value="327fccca26121a316fe3c70a21f8c748"/>
+                            <attribute id="Name" type="LSString" value="Affliction Domain"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="976ed545-d74f-36c2-bf4c-48e77c937220"/>
+                            <attribute id="Version64" type="int64" value="36028797018963973"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SB_TwilightCleric"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="SB_TwilightCleric"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="98dcaaaa-7a7c-43fa-a50a-1a4bbfe2ac9f"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="InquisitionDomain"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Inquisition Domain"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="08ff2a13-ba84-41b0-bf72-13235350a911"/>
+                            <attribute id="Version64" type="int64" value="36451009484029952"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DeathDomain"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Death Domain Cleric"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="231dede3-7724-46ad-81e2-c73563a1f591"/>
+                            <attribute id="Version64" type="int64" value="36028816346316888"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SB_LunarCleric"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="SB_LunarCleric"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="a810daf1-1df9-4019-94f9-0c454039234d"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DarknessDomain"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Cleric - Darkness Domain"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="25aac371-f006-4f4a-ab66-bc97fc39384a"/>
+                            <attribute id="Version64" type="int64" value="36028816346316888"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SB_GraveCleric"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="SB_GraveCleric"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="46c5be76-4d7b-43a7-9db5-588e4f657049"/>
+                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="dopainmaine"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="dopainmaine"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="36df4fb5-b866-489f-9dc7-a8cb036aff62"/>
+                            <attribute id="Version64" type="int64" value="36028805608898560"/>
+                        </node>
+                        <!--Classes - Monk-->
 
 
 
@@ -1485,14 +1575,6 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="97d0a967-2662-4f46-bf4c-a02adfbcaca8"/>
                             <attribute id="Version64" type="int64" value="37295436561645570"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="SB_ForgeCleric"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="SB_ForgeCleric"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="40b6c215-fe60-4a17-be6b-f84aadc6a476"/>
-                            <attribute id="Version64" type="int64" value="36028797018963968"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="BloodMagicSpell_5b702441-7a33-9cb9-30c1-e64bd9ec89c3"/>
@@ -1565,14 +1647,6 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="b986a6b0-6755-496c-8ea8-0fbee6b66026"/>
                             <attribute id="Version64" type="int64" value="36028852853538816"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="AfflictionDomain_976ed545-d74f-36c2-bf4c-48e77c937220"/>
-                            <attribute id="MD5" type="LSString" value="327fccca26121a316fe3c70a21f8c748"/>
-                            <attribute id="Name" type="LSString" value="Affliction Domain"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="976ed545-d74f-36c2-bf4c-48e77c937220"/>
-                            <attribute id="Version64" type="int64" value="36028797018963973"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Druid_QoL"/>
