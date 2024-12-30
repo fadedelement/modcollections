@@ -4,7 +4,7 @@ Load Order:
 - Required
     - BG3 Script Extender
     - Baulder’s Gate 3 Mod Fixer
-    - Mod Loader
+    - Native Mod Loader
     - (fixed in hotfix 28) Hotfix 27 Loading time fixer
     - Community Library
     - Utut’s Core Library
@@ -139,6 +139,8 @@ Load Order:
     - Oath Spells Spellbook (Allows to break or regain oath manually)
     - perform voice
     - dark violin replacer
+- Environment
+    - Duskwood Reshade
 - Items
     - Progressive Weapons
     - Bag of Holding - Bag of Weight Reduction
@@ -297,7 +299,7 @@ Load Order:
 -->
 
 <!--Actual Mod List In Code Ajusted to Relate to List Above-->
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <save>
     <version major="4" minor="7" revision="1" build="300"/>
     <region id="ModuleSettings">
@@ -646,38 +648,6 @@ Load Order:
                             <attribute id="Version64" type="int64" value="36028805608898562"/>
                         </node>
                         <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="P4_DGB_Skin"/>
-                            <attribute id="MD5" type="LSString" value="92ae5c2df98777c464300fb9c7a5e6d2"/>
-                            <attribute id="Name" type="LSString" value="P4 Dragonborn Scale Colours"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="06f797f9-e687-4bd3-8198-c5346dca2a87"/>
-                            <attribute id="Version64" type="int64" value="36028801313931264"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="P4_Dyes"/>
-                            <attribute id="MD5" type="LSString" value="d717f40018149f4a7612b2b7ac5c3815"/>
-                            <attribute id="Name" type="LSString" value="P4 Custom Dyes"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="fdcba160-1c08-4938-8d70-02cd95f44f08"/>
-                            <attribute id="Version64" type="int64" value="36028799166447616"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="P4_NPC_CC_Colours"/>
-                            <attribute id="MD5" type="LSString" value="92ae5c2df98777c464300fb9c7a5e6d2"/>
-                            <attribute id="Name" type="LSString" value="NPC Eye, Skin, Hair Colours"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="796c7e2f-f728-4e08-8511-1ce7332527ab"/>
-                            <attribute id="Version64" type="int64" value="36028812051349504"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="P4_NPC_Dyes"/>
-                            <attribute id="MD5" type="LSString" value="0f79bd3723615210c367ff5b26c19098"/>
-                            <attribute id="Name" type="LSString" value="NPC and Outfit Inspired Dyes"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="1e9a70c4-11f6-43cd-8cb9-44926f62d44e"/>
-                            <attribute id="Version64" type="int64" value="72057602627862528"/>
-                        </node>
-                        <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="OnHee's_Head_Presets"/>
                             <attribute id="MD5" type="LSString" value=""/>
                             <attribute id="Name" type="LSString" value="OnHee's Head Presets"/>
@@ -900,14 +870,6 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="3d96b5d0-aa63-48ba-bff3-cfddbc20d2d7"/>
                             <attribute id="Version64" type="int64" value="36169534507319296"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Vanilla_Colours_For_All_470714b1-7b5b-1866-4730-056ba9d258e8"/>
-                            <attribute id="MD5" type="LSString" value="92ae5c2df98777c464300fb9c7a5e6d2"/>
-                            <attribute id="Name" type="LSString" value="Vanilla CC Colours For All Sections"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="470714b1-7b5b-1866-4730-056ba9d258e8"/>
-                            <attribute id="Version64" type="int64" value="36028797018963970"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Vanilla Hair Mixer NPCs"/>
@@ -2156,14 +2118,6 @@ Load Order:
                             <attribute id="Name" type="LSString" value="College of Eloquence"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="933cc682-b732-48bc-9ec0-30c36b5c2f62"/>
-                            <attribute id="Version64" type="int64" value="1"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="GlamourBard"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="GlamourBard"/>
-                            <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="50b1fe7-4733-40bd-9506-5f5dd2bad616"/>
                             <attribute id="Version64" type="int64" value="1"/>
                         </node>
                         <node id="ModuleShortDesc">
