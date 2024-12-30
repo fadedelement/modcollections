@@ -20,10 +20,11 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 
 ### Changelog
 Rev. 3 - Classes\
-    - *Warlock + Modded*\
-    - *Barbarian + Modded*\
-    - *Cleric + Modded*\
-    - *Monk + Modded*\
+    - *Updated a few mods*\
+    - *Fixed issue with Subclass Compatibility Layer*\
+    - *Added Warlock, Barbarian, Cleric, Monk, Artificer, Ranger, Fighter, Sorcerer, Paladin, Rogue, Druid, Bard, Illrigger, and Wizard subclasses*\
+    - *A few modded subclasses*\
+    - *A few homebrew classes and subclasses*\
 Rev. 2 - Quality of Life\
     -  *Moved Friendly Skeleton to a Feat*\
     -  *Add Easy Cheats Mod for Character Build Planning and Easy Respecs*\
