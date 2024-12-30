@@ -21,6 +21,7 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 ### Changelog
 Rev. 3 - Classes\
     - *Updated a few mods*\
+    - *Reshade (Duskwood Preset)*\
     - *Fixed issue with Subclass Compatibility Layer*\
     - *Added Warlock, Barbarian, Cleric, Monk, Artificer, Ranger, Fighter, Sorcerer, Paladin, Rogue, Druid, Bard, Illrigger, and Wizard subclasses*\
     - *A few modded subclasses*\
