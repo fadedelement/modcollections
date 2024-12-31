@@ -31,6 +31,10 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 
 Rev. 4 - Bug Fixes and Other\
 \- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
+\- *Added Custom Dice*\
+\- *Changed level scale from 150% to alternative curve*\
+\- *Alternative Hair Style for Shadowheart*\
+\- **\
 Rev. 3 - Classes (Remove Shadow)\
 \- *Updated a few mods*\
 \- *Reshade (Duskwood Preset)*\
