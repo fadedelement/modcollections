@@ -29,7 +29,9 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 
 ### Changelog
 
-Rev. 3 - Classes\
+Rev. 4 - Bug Fixes and Other\
+\- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
+Rev. 3 - Classes (Remove Shadow)\
 \- *Updated a few mods*\
 \- *Reshade (Duskwood Preset)*\
 \- *Fixed issue with Subclass Compatibility Layer*\
