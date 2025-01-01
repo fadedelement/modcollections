@@ -118,6 +118,8 @@ Load Order:
         - Makeup Unique Tav
         - Tattoos Unique Tav
     - Full Custom Companions
+    - Appearence Edit Enhanced
+    - Appearence Edit Origins
     - Dark Urge Banter Dialog Fixes
 - Main Characters
     - Astarion's New Fit
@@ -1107,6 +1109,22 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="a6b6aaa8-88bd-11ee-908e-13034502ea2b"/>
                             <attribute id="Version64" type="int64" value="72339069014638598"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="AppearanceEditEnhanced"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="AppearanceEditEnhanced"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="7b8366bd-abc1-4f9f-ba9d-585549b4a750"/>
+                            <attribute id="Version64" type="int64" value="108086414679212032"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="AppearanceEditOrigins"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="AppearanceEditOrigins"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="60de8215-7e9f-4cb6-9763-05aa6aecf257"/>
+                            <attribute id="Version64" type="int64" value="1"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Dark Urge Banter Dialogue Fixes"/>
