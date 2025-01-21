@@ -38,7 +38,7 @@ Rev. 4 - Bug Fixes and Other
 \- *Added ability to change appearence and race mid campaign*\
 \- *Added some dyes*\
 \- *Fixed some Icons*\
-\- *Made encouter mods optional*\
+\- *Made encounter mods optional*\
 Rev. 3 - Classes (Remove Shadow)
 \- *Updated a few mods*\
 \- *Reshade (Duskwood Preset)*\
