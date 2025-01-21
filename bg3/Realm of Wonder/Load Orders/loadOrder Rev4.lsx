@@ -37,6 +37,9 @@ Load Order:
     - OIO - Overexplained Interaction Options
     - Mark Books as Read
     - Shiveros Icon Library
+    - Icons for modded Subclasses
+    - Vanilla Missing Icons
+    - Better Hex Icons
 - Spells
     - 5e Spells
     - 2e Spells
@@ -412,7 +415,7 @@ Load Order:
                             <attribute id="Name" type="LSString" value="Mod Configuration Menu"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="755a8a72-407f-4f0d-9a33-274ac0f0b53d"/>
-                            <attribute id="Version64" type="int64" value="38562071809359872"/>
+                            <attribute id="Version64" type="int64" value="38421336468488192"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GrapplingFramework"/>
@@ -550,6 +553,30 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="e3df13c4-2180-46e6-af53-77c64354f30f"/>
                             <attribute id="Version64" type="int64" value="36028809903865858"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SubclassIcon"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Custom Subclass Icons"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="f26ba921-5f61-45ec-9235-4ae836a42f88"/>
+                            <attribute id="Version64" type="int64" value="37295434414161920"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Ethel_Boon"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Vanilla Missing Icons"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="db8e3e9e-e4f7-4bee-a808-70c2be8151ba"/>
+                            <attribute id="Version64" type="int64" value="36451009484029952"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="BetterHexIcons"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="Better Hex Icons"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="8b493770-f523-4ede-9037-ceed0485c45a"/>
+                            <attribute id="Version64" type="int64" value="108086391056891904"/>
                         </node>
                         <!--Spells-->
                         <node id="ModuleShortDesc">

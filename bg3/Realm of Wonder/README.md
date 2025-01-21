@@ -35,6 +35,9 @@ Rev. 4 - Bug Fixes and Other\
 \- *Changed level scale from 150% to alternative curve*\
 \- *Alternative Hair Style for Shadowheart*\
 \- *Added ability to change appearence and race mid campaign*\
+\- *Added some dyes*\
+\- *Fixed some Icons*\
+\- *Made encouter mods optional*\
 Rev. 3 - Classes (Remove Shadow)\
 \- *Updated a few mods*\
 \- *Reshade (Duskwood Preset)*\
