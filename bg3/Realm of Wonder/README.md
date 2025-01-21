@@ -1,6 +1,6 @@
 # Description
 
-This is meant to be a super easy to use and easy to install Mod Collection that I personally use and update. You are more than welcome to remix this pack, the mod order list and some detailed information is available at this github link if you are interested in checking it out or if your current load order gets corrupted or out of order.
+This is meant to be a super easy-to-use and easy-to-install Mod Collection that I personally use and update. You are more than welcome to remix this pack, the mod order list and some detailed information is available at this github link if you are interested in checking it out or if your current load order gets corrupted or out of order.
 
 #### Load Order: <https://github.com/callmethomastech/modcollections/tree/main/bg3/Realm%20of%20Wonder/Load%20Orders>
 
@@ -11,8 +11,7 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 ### Instructions - Vortex
 
 1. Add and Install the desired revision of the Collection
-2. Make sure load order is loaded correctly- Download The Load Order Based on the Revision you are using from the github link provided
-   - Go to the load order tab located on the bottom left of the vortex menu pane
+2. Make sure load order is loaded correctly- Download The Load Order Based on the Revision you are using from the github link provided- Go to the load order tab located on the bottom left of the vortex menu pane
    - Click the Import from file button and locate the download .lsx file for the load order.
 3. Download [BG3 Script Extender](https://github.com/Norbyte/bg3se/releases)
 4. Extract `DWrite.dll` to the `Baldurs Gate 3\bin\` directory (eg. `C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\bin\`)
@@ -22,7 +21,7 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 
 ### Recommendations
 
-- With all the encounters mods it is recommended to play in Balanced as they add over leveled encounters that make the game feel more naturally difficult rather than artificially so.
+- With all the encounters mods it is recommended to play in Balanced as they add over-leveled encounters that make the game feel more naturally difficult rather than artificially so.
 - Use Vortex Mod Manager for ease
 
 ### Questions
@@ -31,7 +30,7 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
 
 ### Changelog
 
-Rev. 4 - Bug Fixes and Other\
+Rev. 4 - Bug Fixes and Other
 \- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
 \- *Added Custom Dice*\
 \- *Changed level scale from 150% to alternative curve*\
@@ -40,14 +39,14 @@ Rev. 4 - Bug Fixes and Other\
 \- *Added some dyes*\
 \- *Fixed some Icons*\
 \- *Made encouter mods optional*\
-Rev. 3 - Classes (Remove Shadow)\
+Rev. 3 - Classes (Remove Shadow)
 \- *Updated a few mods*\
 \- *Reshade (Duskwood Preset)*\
 \- *Fixed issue with Subclass Compatibility Layer*\
 \- *Added Warlock, Barbarian, Cleric, Monk, Artificer, Ranger, Fighter, Sorcerer, Paladin, Rogue, Druid, Bard, Illrigger, and Wizard subclasses*\
 \- *A few modded subclasses*\
 \- *A few homebrew classes and subclasses*\
-Rev. 2 - Quality of Life\
+Rev. 2 - Quality of Life
 \-  *Moved Friendly Skeleton to a Feat*\
 \-  *Add Easy Cheats Mod for Character Build Planning and Easy Respecs*\
 \-  *Added some more camp clothes*\
