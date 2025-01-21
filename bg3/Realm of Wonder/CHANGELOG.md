@@ -1,5 +1,11 @@
 ### Changelog
 
+Rev. 5 - UI Adjustments\
+\- *Changed Party Panels to fit 6 characters*\
+\- *Damage Preview now shows damage types and some other info*\
+\- *Top Battle bar now shows hp, ac, and statuses*\
+\- *Added a dynamic sidebar that works better with party limit begone*\
+
 Rev. 4 - Bug Fixes and Other\
 \- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
 \- *Added Custom Dice*\
