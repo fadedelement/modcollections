@@ -16,7 +16,9 @@ This is meant to be a super easy to use and easy to install Mod Collection that 
    - Click the Import from file button and locate the download .lsx file for the load order.
 3. Download [BG3 Script Extender](https://github.com/Norbyte/bg3se/releases)
 4. Extract `DWrite.dll` to the `Baldurs Gate 3\bin\` directory (eg. `C:\Program Files (x86)\Steam\steamapps\common\Baldurs Gate 3\bin\`)
-5. You are ready to play!
+5. Download [Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944?tab=files)
+6. Extract **both** `bink2w64.dll` and `bink2w64_original.dll` to the `Baldurs Gate 3\bin\` directory listed in Step 4, **Make sure you overwrite the files when prompted**.
+7. You are ready to play!
 
 ### Recommendations
 
