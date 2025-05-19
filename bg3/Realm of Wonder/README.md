@@ -2,7 +2,7 @@
 
 This is meant to be a super easy-to-use and easy-to-install Mod Collection that I personally use and update. You are more than welcome to remix this pack, the mod order list and some detailed information is available at this github link if you are interested in checking it out or if your current load order gets corrupted or out of order.
 
-#### Load Order: <https://github.com/callmethomastech/modcollections/tree/main/bg3/Realm%20of%20Wonder/Load%20Orders>
+#### Load Order: <https://github.com/fadedelement/modcollections/tree/main/bg3/Realm%20of%20Wonder/Load%20Orders>
 
 ####
 
@@ -23,6 +23,7 @@ This is meant to be a super easy-to-use and easy-to-install Mod Collection that 
 
 - With all the encounters mods it is recommended to play in Balanced as they add over-leveled encounters that make the game feel more naturally difficult rather than artificially so.
 - Use Vortex Mod Manager for ease
+- If updating to a new revision it is recommended to remove all mods from previous revision then install this collection as different versions of mods may be used or some mods may be removed from previous revisions
 
 ### Questions
 

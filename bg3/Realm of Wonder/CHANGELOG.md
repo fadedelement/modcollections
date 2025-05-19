@@ -1,10 +1,13 @@
 ### Changelog
 
-Rev. 5 - UI Adjustments\
+Rev.5 - Adjusted for Patch 8
 \- *Changed Party Panels to fit 6 characters*\
 \- *Damage Preview now shows damage types and some other info*\
 \- *Top Battle bar now shows hp, ac, and statuses*\
 \- *Added a dynamic sidebar that works better with party limit begone*\
+\- *Removed any class mods corrisponding to new subclasses in patch 8*\
+\- *Updated pre-existing mods to most recent release*\
+\- **\
 
 Rev. 4 - Bug Fixes and Other\
 \- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
