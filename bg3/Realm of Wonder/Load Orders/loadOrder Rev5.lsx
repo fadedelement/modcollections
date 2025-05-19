@@ -299,9 +299,9 @@ Load Order:
 -->
 
 <!--Actual Mod List In Code Ajusted to Relate to List Above-->
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <save>
-    <version major="5" minor="1" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="10"/>
     <region id="ModuleSettings">
         <node id="root">
             <children>
@@ -322,7 +322,7 @@ Load Order:
                             <attribute id="Name" type="LSString" value="CommunityLibrary"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="396c5966-09b0-40a1-af3f-93a5e9ce71c0"/>
-                            <attribute id="Version64" type="int64" value="72339086194507781"/>
+                            <attribute id="Version64" type="int64" value="72339086194507784"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="UtutsCoreLibrary"/>
@@ -880,12 +880,12 @@ Load Order:
                             <attribute id="Version64" type="int64" value="36029297386049870"/>
                         </node>
                         <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Padmes_CCHairColours"/>
-                            <attribute id="MD5" type="LSString" value=""/>
-                            <attribute id="Name" type="LSString" value="Padmes Hair Colours"/>
+                            <attribute id="Folder" type="LSString" value="P4_CC_Colours"/>
+                            <attribute id="MD5" type="LSString" value="c81b287bd211af7b7ba94a5b6237fae9"/>
+                            <attribute id="Name" type="LSString" value="P4 Horn, Makeup, Lip and Tattoo Colours"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
-                            <attribute id="UUID" type="guid" value="1c260369-ea64-4880-9a70-86482cac71f0"/>
-                            <attribute id="Version64" type="int64" value="36028797018963968"/>
+                            <attribute id="UUID" type="guid" value="272fdafb-1322-4c19-97da-795a3e12ad98"/>
+                            <attribute id="Version64" type="int64" value="72057594037927936"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="HairKitchen"/>
@@ -1173,7 +1173,7 @@ Load Order:
                             <attribute id="Name" type="LSString" value="CustomCompanions"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="a6b6aaa8-88bd-11ee-908e-13034502ea2b"/>
-                            <attribute id="Version64" type="int64" value="72339069014638598"/>
+                            <attribute id="Version64" type="int64" value="72339069014638604"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="AppearanceEditEnhanced"/>
@@ -2186,7 +2186,7 @@ Load Order:
                             <attribute id="Name" type="LSString" value="Valkrana's Skeleton Crew Feat"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="d76ff1e5-e09e-4565-a9d2-a035037f6134"/>
-                            <attribute id="Version64" type="int64" value="38139859344293888"/>
+                            <attribute id="Version64" type="int64" value="38421340763455488"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Valkrana's Skeletal Encounters"/>
