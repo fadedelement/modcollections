@@ -7,7 +7,6 @@ Rev.5 - Adjusted for Patch 8
 \- *Added a dynamic sidebar that works better with party limit begone*\
 \- *Removed any class mods corrisponding to new subclasses in patch 8*\
 \- *Updated pre-existing mods to most recent release*\
-\- **\
 
 Rev. 4 - Bug Fixes and Other\
 \- *Fixed Shadow Sorcerer Mod Causing Create Character Issue*\
