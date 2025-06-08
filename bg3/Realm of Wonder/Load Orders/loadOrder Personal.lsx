@@ -278,6 +278,7 @@ Load Order:
     - Native Camera Tweaks
     - WASD Character Movement
     - Waypoints Expanded
+    - Tutorial Chest Mover
 - Patches
     - UnlockLevelCurve - 5e Spells Patch
     - Encouters Overhaul Addon - 5e Spells
@@ -2176,6 +2177,14 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="400daab4-2ffe-436d-dcad-5e5312430f17"/>
                             <attribute id="Version64" type="int64" value="36028797018964038"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="TutorialChestMover"/>
+                            <attribute id="MD5" type="LSString" value=""/>
+                            <attribute id="Name" type="LSString" value="TutorialChestMover"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="7998b46c-d68c-42a8-b633-e9c570e7edf0"/>
+                            <attribute id="Version64" type="int64" value="36169538802286592"/>
                         </node>
                         <!--Patches-->
                         <node id="ModuleShortDesc">
