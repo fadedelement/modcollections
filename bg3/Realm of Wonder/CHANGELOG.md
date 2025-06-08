@@ -1,6 +1,12 @@
 ### Changelog
 
-Rev.5 - Adjusted for Patch 8
+Rev.6 - Updates and some class additions\
+\- *Updated a few mods*\
+\- *Added more cleric classes*\
+\- *Added more ranger classes*\
+\- **\
+
+Rev.5 - Adjusted for Patch 8\
 \- *Changed Party Panels to fit 6 characters*\
 \- *Damage Preview now shows damage types and some other info*\
 \- *Top Battle bar now shows hp, ac, and statuses*\
