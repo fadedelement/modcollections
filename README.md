@@ -4,4 +4,7 @@ This is a collection of important files that are releated to any mod collection 
 ### Index
 |-bg3\
 |--Realm of Wonder\
-|---[Load Orders](https://github.com/fadedelement/modcollections/tree/main/bg3/Realm%20of%20Wonder/archive)
+|---Vortex (No Longer being updated past Rev 5)
+|----[Load Orders](https://github.com/fadedelement/modcollections/tree/main/bg3/Realm%20of%20Wonder/archive)
+|---BG3MM
+|----[Import Info](https://github.com/fadedelement/modcollections/tree/main/bg3/Realm%20of%20Wonder)
