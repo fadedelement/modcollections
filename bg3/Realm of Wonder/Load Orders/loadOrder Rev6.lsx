@@ -277,6 +277,7 @@ Load Order:
     - Valkrana's Undead Encounters
     - Native Camera Tweaks
     - WASD Character Movement
+    - Waypoints Expanded
 - Patches
     - UnlockLevelCurve - 5e Spells Patch
     - Encouters Overhaul Addon - 5e Spells
@@ -2167,6 +2168,14 @@ Load Order:
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="e11672e2-408f-44ef-8058-85f65032953b"/>
                             <attribute id="Version64" type="int64" value="36451024516415488"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Waypoints_400daab4-2ffe-436d-dcad-5e5312430f17"/>
+                            <attribute id="MD5" type="LSString" value="130c3d5b440bb6e7292137930105314d"/>
+                            <attribute id="Name" type="LSString" value="Waypoints"/>
+                            <attribute id="PublishHandle" type="uint64" value="0"/>
+                            <attribute id="UUID" type="guid" value="400daab4-2ffe-436d-dcad-5e5312430f17"/>
+                            <attribute id="Version64" type="int64" value="36028797018964038"/>
                         </node>
                         <!--Patches-->
                         <node id="ModuleShortDesc">

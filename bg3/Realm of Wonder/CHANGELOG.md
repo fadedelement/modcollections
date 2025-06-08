@@ -4,7 +4,7 @@ Rev.6 - Updates and some class additions\
 \- *Updated a few mods*\
 \- *Added more cleric classes*\
 \- *Added more ranger classes*\
-\- **\
+\- *Added some QoL Waypoints*\
 
 Rev.5 - Adjusted for Patch 8\
 \- *Changed Party Panels to fit 6 characters*\
