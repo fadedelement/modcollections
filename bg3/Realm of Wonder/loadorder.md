@@ -1,0 +1,288 @@
+Load Order:
+
+ - Required
+    - BG3 Script Extender
+    - Baulder’s Gate 3 Mod Fixer
+    - Native Mod Loader
+    - (fixed in hotfix 28) Hotfix 27 Loading time fixer
+    - Community Library
+    - Utut’s Core Library
+    - Divine Curse Framework
+    - VFX Library by Shivero (Part 1)
+    - VFX Library by Shivero (Part 2)
+    - Vlad's Grimoire - VFX Library
+    - Veenab Library
+    - Trips' Shader Compendium
+    - Unique Tav Data
+    - Achievement Enabler
+    - Tutorial Chest Summoning
+    - Fade's Equipment Distribution
+    - Mod Configuration Menu
+    - Grappling Framework
+    - Volition Cabinet
+    - AV Item Shipment Framework
+- UI
+    - ImpUI (Improved UI)
+    - Better Tooltips
+    - Better Inventory UI
+    - Addon for Better Inventory
+    - Better Character Panels
+    - Damage Preview 2
+    - Batter Topbar
+    - Dynamic Sidebar
+    - Better Hotbar
+    - Better Dyeing
+    - Better Containers
+    - Better Trade Menu
+    - Camp Event Notifications
+    - Better Hints and New Loading Screens
+    - No Intro
+    - OIO - Overexplained Interaction Options
+    - Mark Books as Read
+    - Shiveros Icon Library
+    - Icons for modded Subclasses
+    - Vanilla Missing Icons
+- Spells
+    - 5e Spells
+    - 2e Spells
+    - Valkrana's Spellbook - 12 New Necromancy Spells
+    - Teleport Party To You Spell
+    - Warlocks Spell List Fixer
+    - Necromancy Cantrips for Clerics
+    - Elemental Spells
+- Character
+    - Transmog Enhanced
+    - Less Wrinkled Expression and Forehead for Face
+    - Vamperen’s Other Heads Repaired (Non-Replacer)
+    - Strong Female Heads
+    - P4 Patches
+    - OnHee’s Head Presets
+    - Lore-Unfriendly Githyanki Heads
+    - New Character Creation Preset
+    - xx's New Female Head Preset
+    - Dissidia’s Heads
+    - Heads (not only) for tieflings
+    - Ellian’s Heads
+    - P4 Horn Makeup Lip and Tattoo Colours
+    - Ghouls Customization Compendium
+    - Yogurt Heads
+    - Lazy Heads
+    - Loiru Male Pack
+    - MJK Heads
+    - Elgorth’s head
+    - Ren’s Alcuard Hair and Head
+    - Change Orin Hair
+    - Ellian’s Hair
+    - Engels Hair
+    - Honey’s Hair Kitchen
+    - Tav’s Hair Salon
+    - Icon and Race Patches for Tav’s Hair Salon
+    - Tav’s Hair Mixer
+    - Silvers Hair Pack 2
+    - Vessnelle_Hair 1
+    - Vessnelle_Hair 2
+    - Vessnelle_Hair 3
+    - softer hair and beards fixed pack
+    - Dissidia’s Hair for all Types
+    - Vanilla Hair Mixer
+    - Vanilla Hair Mixer NPCs
+    - Em's Hair Mashups Pack 2
+    - Hair of Thunder - Thrud’s Hairstyle
+    - P4 Hair Colours
+    - P4 Hair Colours Greying and Hightlights
+    - Eyes of the Beholder
+    - EoTB Abberarion Alt Eyes Preset
+    - Eyes of the Pantheon
+    - P4 Eye Colours
+    - ASTRL Fantasy Skin Tones
+    - ASTRL Natural Skin Tones
+    - Horns of Faerun
+    - Saer’s Horns
+    - MoreHorns
+    - Half-Tiefs
+    - Angel Wings and Halos by Ren
+    - V8 Base - Unique Tav Mod Required HOTFIX**
+    - Glasses by Ren
+    - Izzli's Pigments - A Dye Mod
+    - Everybody Dyes Unlimited Dyeing
+    - Feminine dragonborn clothes
+    - Actually feminine dragonborns and lore-friendly legs
+    - Basket Full of Equipment. NSFW version
+    - Fancy Camp Clothes
+    - Remodelled Frame Body
+    - SBBF Stylized Beautiful Body for Female
+    - SBBF Vanilla Outfits Patch
+    - SBBF Vanilla Outfits Patch Fix
+    - SBBF Scantily Camp Outfit patch
+    - SBBF Basket full of equipment NSFW patch
+    - Mix Armor - Vanilla and SBBF and Beautiful Curvy body
+    - Scantily Camp Outfit
+    - Universal Armour Fixer
+    - Knights and Dames
+    - Paladin and Cleric Gear
+    - Bard Equiptment
+    - Buy Your Starting Equipment
+    - Cosmetic pack by Mari
+        - Makeup Unique Tav
+        - Tattoos Unique Tav
+    - Full Custom Companions
+    - Appearence Edit Enhanced
+    - Appearence Edit Origins
+    - Dark Urge Banter Dialog Fixes
+- Main Characters
+    - Astarion's New Fit
+    - Wyll's New Fit
+    - Lae'zel's new Fit
+    - Karlach's New Fit
+    - Gale's New Fit
+    - A Somewhat Cuter Shadowheart
+    - Shadowhearts Better Starting Equiptment
+    - Shadowheart Alt Hair
+- Extras
+    - Planar Mommies
+    - Dieties for All
+    - Barrel Tweaks
+    - Tasha's Fighting Styles
+    - Cunning Strike
+    - Oath Spells Spellbook (Allows to break or regain oath manually)
+    - perform voice
+    - dark violin replacer
+    - DND Alternative Classic Dice
+- Items
+    - Progressive Weapons
+    - Bag of Holding - Bag of Weight Reduction
+    - Pact and Power: Warlock Equipment
+    - Unarmed and Upgraded - Monk Equipment
+- Races
+    - Fantastical Compendium
+        - Air Gensai
+        - Astral Elf
+        - Bugbear
+        - Dhampir
+        - Downcast
+        - Elezen
+        - Firbolg
+        - Fire Genasi
+        - Githzerai
+        - Goliath
+        - Kobold
+        - Lizardfolk
+        - Monotaur
+        - Orc
+        - Pallid Elf
+        - Reborn
+        - Shadarkai
+        - Triton
+        - Variant Human
+        - Water Genasi
+    - Half Demon (Cambion)
+    - Whispers of the Divine
+- Classes
+    - Warlock
+        - Necromancer Warlock - The Dread Overlord
+        - The Undead Warlock
+        - Fathomless Warlock
+        - Celestial Warlock
+        - Genie Warlock
+        - The first Vampire Warlock
+        - The Umbra Warlock
+    - Barbarian
+        - 5e Barbarian Subclasses Combined
+        - Hearteater (Bhaal Barbarian)
+        - World Tree
+        - Skull Collector
+        - Barbarian Quality of Life
+    - Cleric
+        - Cleric Subclasses Combined
+        - Affliction Domain Cleric
+        - Inquisition
+        - Moon
+        - Darkness
+        - Pained
+    - Monk
+        - 5e Monk Subclasses Combined
+        - Spring Time
+        - Hurricane
+    - Artificer
+        - class and all subclasses
+    - Ranger
+        - Ranger Subclasses Combined
+        - Drake Warden
+        - toxicologist
+        - Wave Breaker
+    - Homebrew / Other
+        - The Boidborne
+        - Dark Ranger
+        - Mystic
+        - Illrigger
+    - Fighter
+        - 5e Fighter Subclasses Combined
+    - Sorcerer
+        - Blood Sorcery - A Sorcerer subclass
+        - Abberant Mind
+        - Undead Soul
+        - Divine Soul
+        - Lunar
+        - Asgorath
+        - Wreatched Bloodline
+    - Paladin
+        - Oath of Conquest
+        - Bleak Walkers
+        - Redemeption
+        - Watchers
+        - Eldritch Hunt
+        - Hells
+        - Zeal
+    - Rogue
+        - Rogues Extra
+        - Fencer
+        - Bloodletter
+        - Marauder
+    - Druid
+        - wildfire
+        - storm chasers
+        - blighted
+        - shepherd
+        - sea
+        - Druid Quality of Life
+    - Bard
+        - Spirits
+        - Eloquence
+        - Glamour
+        - Creation
+        - Dance
+    - Wizard
+        - Graviturgy
+        - Chronurgy
+        - Blood Magic
+        - Hexcraft
+        - Psionics
+        - Shadow
+- Feats
+    - Essential Feats
+    - Feats Extra
+- Backgrounds
+    - Plus Backgrounds
+    - JWL Histories and Occupations
+- Gameplay
+    - Party Limit Begone
+    - Free Repecs and hirelings
+    - Weightless Consumables
+    - Expansion
+    - UnlockLevelCurve
+    - Encouters Overhaul
+    - Valkrana's Skeleton Crew Feat
+    - Valkrana's Skeleton Emporium
+    - Valkrana's Undead Encounters
+    - Native Camera Tweaks
+    - WASD Character Movement
+    - Waypoints Expanded
+    - Tutorial Chest Mover
+- Patches
+    - UnlockLevelCurve - 5e Spells Patch
+    - Encouters Overhaul Addon - 5e Spells
+    - 5e Spells Compatibility Patch
+    - AdvancedTabletopSpells
+    - Chromurgy and Graviturgy 5e Patch
+    - College of Dance - Lvl 20 Patch
+    - Compatibility Framework

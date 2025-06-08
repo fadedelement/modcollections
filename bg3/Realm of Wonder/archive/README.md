@@ -2,6 +2,8 @@
 
 This is meant to be a super easy-to-use and easy-to-install Mod Collection that I personally use and update. You are more than welcome to remix this pack, the mod order list and some detailed information is available at this github link if you are interested in checking it out or if your current load order gets corrupted or out of order.
 
+#### Load Order: <https://github.com/fadedelement/modcollections/tree/main/bg3/Realm%20of%20Wonder/Load%20Orders>
+
 ####
 
 ## Before you start
