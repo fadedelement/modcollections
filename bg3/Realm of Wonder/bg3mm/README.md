@@ -1,14 +1,14 @@
 # Description
 
-This is meant to be a super easy-to-use and easy-to-install Mod Collection that I personally use and update. You are more than welcome to remix this pack, the mod order list and some detailed information is available at this github link if you are interested in checking it out or if your current load order gets corrupted or out of order.
+This is meant to be a super easy-to-use and easy-to-install Mod Collection that I personally use and update. You are more than welcome to remix this pack, this mod pack is created using bg3mm.
 
 ####
 
 ## Before you start
 
-### Instructions - Vortex
+### Instructions
 
-1. Add and Install the desired revision of the Collection
+1. Download [BG3 Mod Manager v1.0.12.9 +](https://github.com/LaughingLeader/BG3ModManager/releases)
 2. Make sure load order is loaded correctly- Download The Load Order Based on the Revision you are using from the github link provided- Go to the load order tab located on the bottom left of the vortex menu pane
    - Click the Import from file button and locate the download .lsx file for the load order.
 3. Download [BG3 Script Extender](https://github.com/Norbyte/bg3se/releases)

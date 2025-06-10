@@ -5,6 +5,7 @@ Rev.6 - Updates and some class additions\
 \- *Added more cleric classes*\
 \- *Added more ranger classes*\
 \- *Added some QoL Waypoints*\
+\- *Removed Glamour Bard mod due to UUID Issues*\
 
 Rev.5 - Adjusted for Patch 8\
 \- *Changed Party Panels to fit 6 characters*\

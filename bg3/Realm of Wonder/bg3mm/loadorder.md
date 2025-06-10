@@ -1,10 +1,13 @@
 Load Order:
 
+Table:
+- Normal
++ Overrides
+* Bin
+
  - Required
-    - BG3 Script Extender
-    - Baulder’s Gate 3 Mod Fixer
-    - Native Mod Loader
-    - (fixed in hotfix 28) Hotfix 27 Loading time fixer
+    * BG3 Script Extender
+    * Native Mod Loader
     - Community Library
     - Utut’s Core Library
     - Divine Curse Framework
@@ -14,7 +17,7 @@ Load Order:
     - Veenab Library
     - Trips' Shader Compendium
     - Unique Tav Data
-    - Achievement Enabler
+    * Achievement Enabler
     - Tutorial Chest Summoning
     - Fade's Equipment Distribution
     - Mod Configuration Menu
@@ -29,8 +32,9 @@ Load Order:
     - Better Character Panels
     - Damage Preview 2
     - Batter Topbar
+    - Companions Panel and Camp Chest Everywhere
     - Dynamic Sidebar
-    - Better Hotbar
+    - Better Hotbar 2
     - Better Dyeing
     - Better Containers
     - Better Trade Menu
@@ -48,7 +52,7 @@ Load Order:
     - Valkrana's Spellbook - 12 New Necromancy Spells
     - Teleport Party To You Spell
     - Warlocks Spell List Fixer
-    - Necromancy Cantrips for Clerics
+    - Necrotic and Necromancy Spells for Clerics
     - Elemental Spells
 - Character
     - Transmog Enhanced
@@ -56,6 +60,9 @@ Load Order:
     - Vamperen’s Other Heads Repaired (Non-Replacer)
     - Strong Female Heads
     - P4 Patches
+        - Horns of Faerun
+        - Patches for CC Races
+        - Patches for VFX Heads
     - OnHee’s Head Presets
     - Lore-Unfriendly Githyanki Heads
     - New Character Creation Preset
@@ -70,26 +77,28 @@ Load Order:
     - Loiru Male Pack
     - MJK Heads
     - Elgorth’s head
-    - Ren’s Alcuard Hair and Head
-    - Change Orin Hair
     - Ellian’s Hair
     - Engels Hair
     - Honey’s Hair Kitchen
+    - Honey's Hair Missing Hair Fix
     - Tav’s Hair Salon
     - Icon and Race Patches for Tav’s Hair Salon
-    - Tav’s Hair Mixer
+    - Silvers Hair Pack
     - Silvers Hair Pack 2
     - Vessnelle_Hair 1
     - Vessnelle_Hair 2
     - Vessnelle_Hair 3
+    - Vessnelle_Hair 4
     - softer hair and beards fixed pack
     - Dissidia’s Hair for all Types
     - Vanilla Hair Mixer
     - Vanilla Hair Mixer NPCs
+    - Em's Hair Mashups Pack 1
     - Em's Hair Mashups Pack 2
+    - Em's Hair Mashups Pack 3
+    - Em's Hair Mashups Pack 4
     - Hair of Thunder - Thrud’s Hairstyle
     - P4 Hair Colours
-    - P4 Hair Colours Greying and Hightlights
     - Eyes of the Beholder
     - EoTB Abberarion Alt Eyes Preset
     - Eyes of the Pantheon
@@ -100,43 +109,34 @@ Load Order:
     - Saer’s Horns
     - MoreHorns
     - Half-Tiefs
-    - Angel Wings and Halos by Ren
-    - V8 Base - Unique Tav Mod Required HOTFIX**
-    - Glasses by Ren
     - Izzli's Pigments - A Dye Mod
     - Everybody Dyes Unlimited Dyeing
-    - Feminine dragonborn clothes
-    - Actually feminine dragonborns and lore-friendly legs
+    * Feminine dragonborn clothes
+    * Actually feminine dragonborns and lore-friendly legs
     - Basket Full of Equipment. NSFW version
     - Fancy Camp Clothes
     - Remodelled Frame Body
-    - SBBF Stylized Beautiful Body for Female
-    - SBBF Vanilla Outfits Patch
-    - SBBF Vanilla Outfits Patch Fix
-    - SBBF Scantily Camp Outfit patch
-    - SBBF Basket full of equipment NSFW patch
     - Mix Armor - Vanilla and SBBF and Beautiful Curvy body
     - Scantily Camp Outfit
-    - Universal Armour Fixer
     - Knights and Dames
     - Paladin and Cleric Gear
     - Bard Equiptment
     - Buy Your Starting Equipment
     - Cosmetic pack by Mari
-        - Makeup Unique Tav
-        - Tattoos Unique Tav
+        * Makeup Unique Tav
+        * Tattoos Unique Tav
     - Full Custom Companions
     - Appearence Edit Enhanced
     - Appearence Edit Origins
-    - Dark Urge Banter Dialog Fixes
+    + Dark Urge Banter Dialog Fixes
 - Main Characters
     - Astarion's New Fit
     - Wyll's New Fit
     - Lae'zel's new Fit
     - Karlach's New Fit
     - Gale's New Fit
+    - Shadowhearts new fit
     - A Somewhat Cuter Shadowheart
-    - Shadowhearts Better Starting Equiptment
     - Shadowheart Alt Hair
 - Extras
     - Planar Mommies
@@ -194,7 +194,6 @@ Load Order:
         - Barbarian Quality of Life
     - Cleric
         - Cleric Subclasses Combined
-        - Affliction Domain Cleric
         - Inquisition
         - Moon
         - Darkness
@@ -211,7 +210,7 @@ Load Order:
         - toxicologist
         - Wave Breaker
     - Homebrew / Other
-        - The Boidborne
+        - The voidborne
         - Dark Ranger
         - Mystic
         - Illrigger
@@ -248,7 +247,6 @@ Load Order:
     - Bard
         - Spirits
         - Eloquence
-        - Glamour
         - Creation
         - Dance
     - Wizard
@@ -273,7 +271,6 @@ Load Order:
     - Encouters Overhaul
     - Valkrana's Skeleton Crew Feat
     - Valkrana's Skeleton Emporium
-    - Valkrana's Undead Encounters
     - Native Camera Tweaks
     - WASD Character Movement
     - Waypoints Expanded
@@ -284,5 +281,8 @@ Load Order:
     - 5e Spells Compatibility Patch
     - AdvancedTabletopSpells
     - Chromurgy and Graviturgy 5e Patch
+    - Dissidia Heads - EOTBUTAV Patch
+    - MJK Heads - EOTB Campatibility Patch
+    - Tavs Hair Salon Patch for Custom Races (download under icon and race patches)
     - College of Dance - Lvl 20 Patch
     - Compatibility Framework
